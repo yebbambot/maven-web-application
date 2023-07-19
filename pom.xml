@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>PRIMUS LEARNING Releases Nexus Repository</name>
-	      <url>http://3.82.99.163:8081/repository/Tesla-release-repo/</url>
+	      <url>http://100.26.188.109:8081/repository/Tesla-repo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>PRIMUS LEARNING Snapshot Nexus Repository </name>
-	      <url>http://3.82.99.163:8081/repository/Tesla-snapshot-repo/</url>
+	      <url>http://100.26.188.109:8081/repository/Tesla-repo-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
